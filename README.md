@@ -1,10 +1,3 @@
-# Final Project of databases Course [Oracle]
+# Project of databases Course [Oracle]
 
-###### Made By :
-- Abdulrahman M. Al-Majayda
-- Mohammed N. Abdu
-
-UCAS GAZA -  Engineering Department
-
-###### ERD :
-![Erd](https://raw.githubusercontent.com/itsDARKSAMA/orcaleDB/master/ERD/erd.png "Erd")
+![erd](https://user-images.githubusercontent.com/115421396/195875154-2ddf753c-1193-4e95-9d87-5677b4c8851c.png)
